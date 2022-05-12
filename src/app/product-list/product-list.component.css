@@ -1,0 +1,29 @@
+
+
+h2{
+  text-align: center;
+  font-size: 70px;
+  padding-top:90px;
+}
+
+.center {
+border: 5px solid #FFFFFF;
+text-align: center;
+
+}
+
+
+.center2 {
+/* Center vertically and horizontally */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+    padding-top: 270px;
+
+
+}
+div {
+    max-width: 450px;
+
+}
